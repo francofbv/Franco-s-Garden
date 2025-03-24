@@ -7,6 +7,17 @@
 - [ ] Partial actions  
 - [ ] Time order understanding  
 - [ ] Non-existent actions with existent scene depictions  
+	- https://www.youtube.com/watch?v=fMgKrNSHnys&ab_channel=FINDSTOCKS%3ARoyalty-FreeFootage
+	- https://www.youtube.com/watch?v=WsYI5dRRapE&ab_channel=FINDSTOCKS%3ARoyalty-FreeFootage
+	- https://www.youtube.com/watch?v=dpVjuMKi19I&ab_channel=FranciLeoncioFotografie
+	- https://www.youtube.com/watch?v=HjvCZbtfzsU&ab_channel=thierryrousseau
+	- https://www.youtube.com/watch?v=WJe_Hja48RQ&ab_channel=DesignAccessories
+	- https://www.youtube.com/watch?v=Saak-pQDums&ab_channel=MotionArray
+	- https://www.youtube.com/watch?v=7xidYC7XlSE&ab_channel=MotionArray
+	- https://www.youtube.com/watch?v=h6-mnG1Qvmk&ab_channel=StockFootage
+	- https://www.youtube.com/watch?v=-d_iBRRVlVE&ab_channel=StockShots
+	- https://www.youtube.com/watch?v=-ema4gRAAPg&ab_channel=FreeRenderFootage
+- [ ] Non-existent actions with non-existent scene depictions  
 	- https://www.youtube.com/watch?v=EvyonUPPFW4&ab_channel=DudeFreek
 	- https://www.youtube.com/watch?v=-d_iBRRVlVE&ab_channel=StockShots
 	- https://www.youtube.com/watch?v=qy4SW9cXvHs
@@ -18,9 +29,6 @@
 		- 0 -> timestamp
 	- https://www.youtube.com/watch?v=bXlQ3Mw4uGc&ab_channel=iBrandBoost
 	- https://www.youtube.com/watch?v=LjCzPp-MK48&ab_channel=NationalGeographic
-	- 
-	- 
-- [ ] Non-existent actions with non-existent scene depictions  
 - [ ] Continuity and object instance count  
 - [ ] Unusual and physically anomalous activities  
 	- https://youtu.be/7_NpFR479Ew?t=48
@@ -41,6 +49,16 @@
 - [ ] Interpretation of social context  
 - [ ] Understanding of emotional context  
 - [ ] Interpretation of visual context  
+	- https://www.youtube.com/watch?v=dhK8nbtii6I&ab_channel=ritvikmath 
+	- https://www.youtube.com/watch?v=3GGp8FQc8W4&ab_channel=Memology101%27sForumWeapons
+	- https://www.youtube.com/watch?v=78X4Mga-kFw&ab_channel=FreeVideoLibrary-ForContentCreators
+	- https://www.youtube.com/watch?v=IoLiac2GWiE&ab_channel=DownloadAfterEffectsTemplate
+	- https://www.youtube.com/watch?v=vStgHJ63ICA&ab_channel=MotionArray
+	- https://www.youtube.com/watch?v=CNJx4cNIqcI&ab_channel=Unsplash
+	- https://www.youtube.com/watch?v=EKRq6F0BhqA&ab_channel=MotionArray
+	- https://www.youtube.com/watch?v=LaaP14Oyq6Y&ab_channel=VideliFreeFootage
+	- https://www.youtube.com/watch?v=agAYbDySzmQ&ab_channel=Footaze
+	- https://www.youtube.com/shorts/iqjkbQVnPh8
 
 ## Tasks for each dimension
 - Download samples from dimension
