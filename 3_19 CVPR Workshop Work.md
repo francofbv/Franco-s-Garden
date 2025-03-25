@@ -6,9 +6,9 @@
 - [x] Unusual and Physically Anomalous activities: Web ?  
 - [x] Non-existent actions with existent scene depictions: Charades, ActivityNet, Web  
 - [x] Interpretation of visual context: Web ?  
-- [ ] Fine-grained action understanding: SSv2, MSR-VTT, Web ?  
-- [ ] Multiple actions in a single video: Charades  
-- [ ] Understanding of emotional context: Web ?  
+- [x] Fine-grained action understanding: SSv2, MSR-VTT, Web ?  
+- [x] Multiple actions in a single video: Charades  
+- [x] Understanding of emotional context: Web ?  
 - [ ] Partial actions: SSv2, Web (?)  
 - [ ] Time order understanding: SSv2, Web (?)  
 - [ ] Continuity and Object Instance Count: ActivityNet, CATER, DiDeMo, Web  

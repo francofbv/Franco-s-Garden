@@ -1,10 +1,18 @@
 #Research #CVPR_Workshop #CRCV
 
-- [ ] Multiple actions in a single video   
-
-	- 
-- [ ] Fine-grained action understanding  
+- [ ] Fine-grained action understanding
+	- https://www.youtube.com/watch?v=ZvzMMcKHVR4
+	- https://www.youtube.com/watch?v=1pi2kI8-b1A
+	- https://www.youtube.com/watch?v=qsKoT__cmAw
+	- https://www.youtube.com/shorts/XjqeTrJJk5g
+	- https://www.youtube.com/shorts/J2YH8S6-Pss
 - [ ] Partial actions  
+- [ ] Multiple actions in a single video
+	- https://www.youtube.com/watch?v=q8oy0pz5YKA
+	- https://www.youtube.com/shorts/hWbUlkb5Ms4
+	- https://www.youtube.com/watch?v=X6hiTEPyRGI
+	- https://www.youtube.com/shorts/WBpethhQozo
+	- https://www.youtube.com/shorts/FTJpAJgvYEw2dcv 
 - [ ] Time order understanding  
 - [ ] Non-existent actions with existent scene depictions  
 	- https://www.youtube.com/watch?v=fMgKrNSHnys&ab_channel=FINDSTOCKS%3ARoyalty-FreeFootage
@@ -47,7 +55,12 @@
 	- 
 	- 
 - [ ] Interpretation of social context  
-- [ ] Understanding of emotional context  
+- [ ] Understanding of emotional context
+	- https://www.youtube.com/shorts/mam-7clq9x0
+	- https://www.youtube.com/shorts/PqVYcTF-4mA
+	- https://www.youtube.com/watch?v=m8NAlDOCG6g
+	- https://www.youtube.com/shorts/2zlScO99Si8
+	- https://www.youtube.com/shorts/LN0YPrndeac
 - [ ] Interpretation of visual context  
 	- https://www.youtube.com/watch?v=dhK8nbtii6I&ab_channel=ritvikmath 
 	- https://www.youtube.com/watch?v=3GGp8FQc8W4&ab_channel=Memology101%27sForumWeapons
@@ -59,6 +72,7 @@
 	- https://www.youtube.com/watch?v=LaaP14Oyq6Y&ab_channel=VideliFreeFootage
 	- https://www.youtube.com/watch?v=agAYbDySzmQ&ab_channel=Footaze
 	- https://www.youtube.com/shorts/iqjkbQVnPh8
+
 
 ## Tasks for each dimension
 - Download samples from dimension
