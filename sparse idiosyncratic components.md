@@ -1,0 +1,3 @@
+- Also referred to as throughput
+- Underlying factors that effect individual variables
+- Underlying "noise" or unique information that remains after accounting for the shared influence of the latent factors

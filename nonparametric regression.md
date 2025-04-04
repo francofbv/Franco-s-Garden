@@ -1,0 +1,1 @@
+- Regression that makes no assumption about the nature of the data(i.e. linear)

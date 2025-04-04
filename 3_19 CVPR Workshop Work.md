@@ -10,9 +10,9 @@
 - [x] Multiple actions in a single video: Charades  
 - [x] Understanding of emotional context: Web ?  
 - [ ] Partial actions: SSv2, Web (?)  
-- [ ] Time order understanding: SSv2, Web (?)  
-- [ ] Continuity and Object Instance Count: ActivityNet, CATER, DiDeMo, Web  
-- [ ] Interpretation of social context: Web ? Few from MSRVTT  
+- [x] Time order understanding: SSv2, Web (?)  
+- [x] Continuity and Object Instance Count: ActivityNet, CATER, DiDeMo, Web  
+- [x] Interpretation of social context: Web ? Few from MSRVTT  
 
 ### Tasks
 - [[CVPR_Workshop_Dataset]]

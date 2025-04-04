@@ -1,0 +1,2 @@
+- Variables outside of the context of the dataset that impact the variable we're trying to predict.
+- **These are factors that effect most if not all variables**
