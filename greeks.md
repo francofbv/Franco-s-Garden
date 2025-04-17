@@ -1,0 +1,26 @@
+Topics: #Finance
+
+- Set of risk measures that quantify the sensitivity of the price of a derivative (mostly options) to changes in underlying parameters
+	- $\Delta =$ Sensitivity to underlying asset's price
+		- How much is the options price expected to change for a $1 change in the price in the underlying asset
+		- Used as a rough proxy for the probability of the option expiring in the money
+		- A delta neutral portfolio aims to have its value unaffected by a small change in the underlying price
+	- $\Gamma =$ Sensitivity of the delta to the underlying asset's price
+		- How much is the options delta expected to change for a $1 change in the price of the underlying asset
+			- Rate of change of delta
+		- Delta is speed, gamma is acceleration
+		- High gamma means delta can change rapidly with small movements in underlying price, making the options price more volatile
+		- gamma is highest for options that are at the money (strike price close to current underlying price) and close to expiration
+	- $\Theta =$ Sensitivity to the passage of time
+		- How much is the options price expected to decrease each day as it approaches expiration if all other factors remain constant
+		- Negative number (loss per day)
+		- Option sellers profit from theta decay, buyers lose value
+	- $\nu \text{ (Vega)} =$  Sensitivity to implied volatility of underlying assets
+		- How much the option's price is expected to change for a 1% change in the [[implied volatility]] of the underlying asset
+		- Higher implied volatility generally means higher option prices (bc larger chance of large price swings)
+		- Vega is highest for at-the-money options with longer times to expiration
+		- Used to gauge risk/reward from changes in market uncertainty
+	- $\rho =$ Sensitivity to the [[risk-free interest rate]]
+		- How much the options price is expected to change for a 1% change in the risk-free interest rate
+		- Least impactful greek for most options
+		- Higher interest rates tend to slightly increase call prices and decrease put prices
